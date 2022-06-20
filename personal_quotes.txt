@@ -1,1 +1,5 @@
 Strenght through Struggle- Michael Choi
+<<<<<<< HEAD
+=======
+I like blue - Humberto Cruz Sanabria
+>>>>>>> personal_quotes
